@@ -5,8 +5,6 @@
 - <a href="https://github.com/cplepage/fullstacked">
   <img src="https://fullstacked.org/static/favicon.png" height="25" />
   FullStacked</a> - A full stack web app tool and development kit.
-- <a href="https://github.com/cplepage/typescript-rpc">
-  TypeScript RPC</a> - Another attempt to a TypeScript end-to-end type safe framework.
 
 #### 📜 Past
 
