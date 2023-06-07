@@ -3,7 +3,7 @@
 #### 👨‍💻 I’m currently working on 
 
 - <a href="https://github.com/cplepage/fullstacked">
-  <img src="https://fullstacked.org/static/favicon.png" height="25" />
+  <img src="https://files.cplepage.com/fullstacked/favicon.png" height="25" />
   FullStacked</a> - A full stack web app tool and development kit.
 
 #### 📜 Past
