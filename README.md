@@ -3,13 +3,13 @@
 #### 👨‍💻 I’m currently working on 
 
 - <a href="https://github.com/fullstackedorg">
-  <img src="https://files.cplepage.com/fullstacked/favicon.png" height="25" />
-  FullStacked</a> - A full stack web app tool and development kit.
+  <img src="https://files.cplepage.com/fullstacked/favicon.png" height="20" />
+  FullStacked</a> - An app to create local-first web-like project on any platform.
 
 #### 📜 Past
 
 - <a href="https://www.deepsight.ca/">
-  <img src="https://www.deepsight.ca/menu-cropped-favicon-150x150.png" height="25" />
+  <img src="https://studio.deepsight.ca/favicon.png" height="20" />
   DeepSight</a> - A complete augmented reality platform
 
 #### 🤔 My interests
