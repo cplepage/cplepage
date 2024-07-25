@@ -14,8 +14,8 @@
 
 #### 🤔 My interests
 
-- ☄️ TypeScript as a single and complete language for web dev
-- 🚀 Seamless developping to deploying while collaborating
+- 🟦 TypeScript
+- 🌐 Web
 
 #### 📫 How to reach me
 
